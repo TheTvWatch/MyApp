@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mani\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Projects\Skolaverkefni\MyApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_3a27d44c18d556e6b9df1080ff876bdfa63fd61f.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Skolaverkefni\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Projects\Skolaverkefni\MyApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_5d0105e31523262cde177a2482c5d8af52809281.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Skolaverkefni\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Projects\Skolaverkefni\MyApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_70bef6e508c0e838a2dc794a5f2201fbbcdd573c.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Skolaverkefni\MyApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Projects\Skolaverkefni\MyApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_f7b3110d2d35e0639ffc3fa2c3ae0bfd97369f4c.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Skolaverkefni\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Projects\Skolaverkefni\MyApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_cb7641b1b35343ab59697b4174a812cf110aa244.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Skolaverkefni\MyApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Projects\Skolaverkefni\MyApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_ff0d932bc36c7b3fd0da5effd79240aeda0ef044.jar" />
+    </item>
+
+</items>
